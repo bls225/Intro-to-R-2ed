@@ -2,8 +2,8 @@
 # Copy for Bianca Schwartz 2021
 ######################################################
 
-# You will see that you can put non-executable "comment" lines
+#Fun fact: I drive a stick.     
 # in your script by putting "#" at the beginning of the lines.
 # 
-# In fact, you can put comments anywhere on a line as long as 
+# I'm really craving Chinese food right now. 
 # you put "#" before them.
